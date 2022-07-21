@@ -25,9 +25,7 @@ const Ads = () => {
             <h5 className='text-[1.5rem] py-5'>Make money easily with easyx</h5>
             {/* <Button variant="contained">Contained</Button>             */}
             {/* <button className=" "> Join us...</button> */}
-            <button className=" xl: ml-auto bg-white 
-            text-[#1d9bf0] rounded-full w-56 h-[52px] text-lg my-8 font-bold shadow-md 
-            hover:bg-[#1a8cd8]">
+            <button className="button">
                 Join us...
              </button>
         </div>

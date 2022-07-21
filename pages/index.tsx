@@ -22,7 +22,7 @@ const Home: NextPage = () => {
     // <div className="flex min-h-screen flex-col items-center justify-center py-2">
     <div>
       <Head>
-        <title>Ecconnect</title>
+        <title>Connectce</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
@@ -39,7 +39,6 @@ const Home: NextPage = () => {
 
       </main>
 
-      CONNECTCEE
       
     </div>
   )

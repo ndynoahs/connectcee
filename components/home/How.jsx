@@ -8,7 +8,7 @@ import payImage from "../../public/img/landing/payImage.png"
 
 const How = () => {
   return (
-    <div className=" py-[2rem] px-12 items-center  text-white h-[850px] top-0 ">
+    <div className=" py-[2rem] px-12 items-center  text-white h-[850px] top-0 " id='how'>
         <div className=' text-center py-[2rem]'>
             <p className=' h2 text-black font-semibold  text-4xl '> Explore The Marketplace</p>
         </div>

@@ -11,9 +11,7 @@ const Intro = () => {
             <h5 className='text-[1.5rem] py-5'>Get your work done easily with easyx</h5>
 
             {/* <button className=" "> Connect...</button> */}
-            <button className=" xl: ml-auto bg-white 
-            text-[#1d9bf0] rounded-full w-56 h-[52px] text-lg my-8 font-bold shadow-md 
-            hover:bg-[#1a8cd8]">
+            <button className="button ">
                 Connect...
              </button>
         </div>
